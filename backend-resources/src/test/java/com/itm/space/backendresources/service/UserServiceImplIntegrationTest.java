@@ -1,36 +1,5 @@
 package com.itm.space.backendresources.service;
 
-//import com.itm.space.backendresources.BaseIntegrationTest;
-//import com.itm.space.backendresources.api.request.UserRequest;
-//import com.itm.space.backendresources.api.response.UserResponse;
-//import com.itm.space.backendresources.exception.BackendResourcesException;
-//import org.junit.jupiter.api.Test;
-//import org.keycloak.admin.client.Keycloak;
-//import org.keycloak.admin.client.resource.RealmResource;
-//import org.keycloak.admin.client.resource.RoleMappingResource;
-//import org.keycloak.admin.client.resource.UserResource;
-//import org.keycloak.admin.client.resource.UsersResource;
-//import org.keycloak.representations.idm.GroupRepresentation;
-//import org.keycloak.representations.idm.MappingsRepresentation;
-//import org.keycloak.representations.idm.RoleRepresentation;
-//import org.keycloak.representations.idm.UserRepresentation;
-//import org.springframework.beans.factory.annotation.Autowired;
-//import org.springframework.boot.test.mock.mockito.MockBean;
-//import org.springframework.http.HttpStatus;
-//
-//import javax.ws.rs.WebApplicationException;
-//import javax.ws.rs.core.Response;
-//import java.net.URI;
-//import java.util.List;
-//import java.util.UUID;
-//
-//import static javax.ws.rs.core.Response.status;
-//import static org.apache.http.client.methods.RequestBuilder.post;
-//import static org.junit.jupiter.api.Assertions.*;
-//import static org.mockito.ArgumentMatchers.*;
-//import static org.mockito.Mockito.*;
-
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.itm.space.backendresources.BaseIntegrationTest;
 import com.itm.space.backendresources.api.request.UserRequest;
 import org.junit.jupiter.api.AfterEach;
